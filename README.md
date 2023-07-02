@@ -1,5 +1,5 @@
-# Recruitment-Task
-This repository contains the code for the recruitment task. It is a standard modal with requests to Postman Echo.
+# Modal-Task
+Standard interactive modal created for training. It is a standard modal with requests to Postman Echo.
 ## Technologies used
 * ReactJS
 * Javascript
